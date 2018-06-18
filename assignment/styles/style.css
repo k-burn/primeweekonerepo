@@ -1,0 +1,21 @@
+body {
+  background-color: LightSteelBlue;
+}
+
+.footer {
+  background-color: white;
+  font-family: Georgia, Times, "Times New Roman", serif;
+
+}
+.header {
+  background-color: Indigo;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+ul{
+  list-style-type: none;
+}
+p{
+  font-style: italic;
+  color: MidnightBlue;
+}
