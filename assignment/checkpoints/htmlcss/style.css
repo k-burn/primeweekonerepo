@@ -3,14 +3,16 @@ body {
   background-color: LightSteelBlue;
 }
 /* give your header and footer another background color */
-footer {
+.footer {
   background-color: SlateBlue;
   font-family: Georgia, Times, "Times New Roman", serif;
+
 }
 
-header {
+.header {
   background-color: Indigo;
   font-family: Georgia, Times, "Times New Roman", serif;
+  color: white;
 }
 
 ul{
