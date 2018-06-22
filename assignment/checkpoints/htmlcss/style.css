@@ -7,13 +7,17 @@ footer {
   background-color: SlateBlue;
   font-family: Georgia, Times, "Times New Roman", serif;
 }
+
 header {
   background-color: Indigo;
   font-family: Georgia, Times, "Times New Roman", serif;
 }
+
 ul{
   list-style-type: none;
+  font-style: italic;
 }
+
 p{
   font-style: italic;
   color: MidnightBlue;
