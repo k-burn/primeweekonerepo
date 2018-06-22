@@ -10,14 +10,14 @@ cd
 cd ../
 
 # 4 - What is a quick way to create a new folder?
-mkdir
+mkdir directoryname
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 Nothing
 In a folder containing files, I'd expect a list of all files contained in that folder.
 
 # 6 - What is a quick way to create a new file?
-touch documentname.html
+touch documentname.___
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.1 (Apple Git-101) (the version of Git I have installed)
